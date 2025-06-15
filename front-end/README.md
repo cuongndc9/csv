@@ -44,5 +44,5 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
