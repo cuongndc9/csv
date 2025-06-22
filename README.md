@@ -3,5 +3,5 @@ CSV + React + Node
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->
