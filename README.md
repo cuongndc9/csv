@@ -3,5 +3,5 @@ CSV + React + Node
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "We may encounter many defeats but we must not be defeated." - Maya Angelou
+> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
 <!-- INSPIRATIONAL_QUOTE_END -->
